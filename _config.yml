@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Cooperative AI Lab"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "合作智能实验室（Cooperative AI Lab）隶属于西南石油大学，在谢文波副教授的带领下，专注于**聚类**与**交互式聚类**的科学研究。"
+repository               : "Cooperative-AI-Lab/Cooperative-AI-Lab.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Cooperative AI Lab"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SouthWest Petroleum University （SWPU）"
-  location         : "ChenDu, China"
+  bio              : "西南石油大学/n SouthWest Petroleum University （SWPU）"
+  location         : "中国成都(Chengdu, China)"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=WM4roFwAAAAJ&hl=zh-CN"
