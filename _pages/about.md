@@ -15,21 +15,23 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-us'></span>
-
+<section id='aboutUs'>
 协作智能实验室（Cooperative AI Lab）隶属于西南石油大学，专注于**聚类**与**交互式聚类**的科学研究。在谢文波副教授的带领下，实验室致力于研究结合**专家知识**和**算法推理**的方式提高**交互式聚类方法**对各种应用场景的普适性。
 
 The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses on scientific research in clustering and interactive clustering. Under the leadership of Associate Professor Xie Wenbo, the lab is dedicated to enhancing the generalizability of interactive clustering methods across various application scenarios by integrating expert knowledge with algorithmic reasoning.
 
-⭐️⭐️⭐️<p style="font-size: 16px; color: #5e5e5e;">
-  本实验室专注于 
+<span style="font-size: 16px; color: #5e5e5e;">
+  ⭐️⭐️⭐️本实验室专注于 
   <span style="color: #AB372F; font-weight: bold;">人工智能、数据挖掘</span> 
   等相关专业背景的本科、硕士研究生，参与真实科研项目并发表高水平论文。联系我们: 左下角点击Email.
-</p>
+</span>
+</section>
 
-
+<section id='news'>
 # 🔥 News / 最新动态
+</section>
 
+<section id='research'>
 # 🔍 Research / 研究方向
 我们当前的研究主要集中在以下几个方向：
 - **数据挖掘（DataMining）**
@@ -40,15 +42,23 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 探索人机交互新范式，探索人机协同效率提高方案和协同智能增强策略。
 - **图挖掘（Graph Mining）**
 挖掘图结构中的关系模式与隐藏特性，揭示网络中的关键节点与结构。
+</section>
+
+<section id='publications'>
 # 📝 Publications / 部分论文
+</section>
 
-
-
+<section id='honors-and-awards'>
 # 🎖 Honors and Awards / 比赛获奖
- 
+</section>
 
+<section id='members'>
 # 👥 Team Members / 团队成员
-🧑‍🏫 Director / 负责人
+</section>
+
+<section id='alumni'>
+# 👥 Team Members / 团队成员
+## 🧑‍🏫 Director / 负责人
 <div class="member-container">
   <div class="member-card">
     <img class="member-photo" src="assets/images/WenboXie.png" alt="Wen-bo Xie">
@@ -58,7 +68,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
     <div class="member-title-en"><em>Associate Research Fellow,<br>Supervisor of Master's Students</em></div>
   </div>
 </div>
-🎓 Master’s Students / 硕士生
+## 🎓 Master’s Students / 硕士生
 ### 2023
 <div class="member-container">
   <div class="member-card">
@@ -148,7 +158,9 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
     <div class="member-title-en"></div>
   </div>
 </div>
+</section>
 
+<section id='alumni'>
 # 🎓 Alumni / 毕业生
 🎓 Academic / 学术界
 <div class="member-container">
@@ -174,6 +186,8 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
     <div class="member-title-en"><em>就业</em></div>
   </div>
 </div>
+</section>
+
 <style>
 .member-container {
   display: flex;
@@ -208,5 +222,8 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 .member-title-en {
   font-size: 14px;
   color: #555;
+}
+html {
+  scroll-behavior: smooth;
 }
 </style>
