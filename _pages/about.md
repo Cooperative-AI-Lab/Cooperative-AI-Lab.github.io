@@ -54,10 +54,6 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 
 <a id='members'></a>
 # 👥 Team Members / 团队成员
-
-
-<a id='alumni'></a>
-# 👥 Team Members / 团队成员
 ## 🧑‍🏫 Director / 负责人
 <div class="member-container">
   <div class="member-card">
