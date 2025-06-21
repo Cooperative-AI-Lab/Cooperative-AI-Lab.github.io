@@ -21,44 +21,32 @@ redirect_from:
 
 The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses on scientific research in clustering and interactive clustering. Under the leadership of Associate Professor Xie Wenbo, the lab is dedicated to enhancing the generalizability of interactive clustering methods across various application scenarios by integrating expert knowledge with algorithmic reasoning.
 
-⭐️⭐️⭐️实验室长期招收人工智能、数据挖掘等相关专业背景的本科、硕士和博士研究生，参与真实科研项目并发表高水平论文。联系我们: 左下角点击Email.
+⭐️⭐️⭐️实验室长期招收人工智能、数据挖掘等相关专业背景的本科、硕士研究生，参与真实科研项目并发表高水平论文。联系我们: 左下角点击Email.
 
 
 # 🔥 News / 最新动态
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 🔍 Research / 研究方向
-
+-**数据挖掘（DataMining）**
+借助新颖的算法或模型从海量数据中学习特殊或频繁出现的模式。
+-**主动学习（Active Learning）**
+结合模型自主推理和人机交互的方式探索数据中隐含的信息。
+-**人机协同（Cooperative Human-Machine）**
+探索人机交互新范式，探索人机协同效率提高方案和协同智能增强策略。
+-**图挖掘（Graph Mining）**
+挖掘图结构中的关系模式与隐藏特性，揭示网络中的关键节点与结构。
 # 📝 Publications / 部分论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards / 比赛获奖
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
 
 # 👥 Team Members / 团队成员
 🧑‍🏫 Director / 负责人
 <div class="member-container">
   <div class="member-card">
-    <img class="member-photo" src="assets/WenboXie.png" alt="Wen-bo Xie">
+    <img class="member-photo" src="assets/images/WenboXie.png" alt="Wen-bo Xie">
     <div class="member-name-cn">谢文波</div>
     <div class="member-name-en">Wen-bo Xie</div>
     <div class="member-title-cn">副教授，硕士生导师</div>
@@ -66,10 +54,10 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
 </div>
 🎓 Master’s Students / 硕士生
-2023
+### 2023
 <div class="member-container">
   <div class="member-card">
-    <img class="member-photo" src="assets/TaoDeng.png" alt="Tao Deng">
+    <img class="member-photo" src="assets/images/TaoDeng.png" alt="Tao Deng">
     <div class="member-name-cn">邓涛</div>
     <div class="member-name-en">Tao Deng</div>
     <div class="member-title-cn">研究方向</div>
@@ -77,17 +65,17 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
 
   <div class="member-card">
-    <img class="member-photo" src="assets/TianZou.jpg" alt="Tian Zou">
+    <img class="member-photo" src="assets/images/TianZou.jpg" alt="Tian Zou">
     <div class="member-name-cn">邹甜</div>
     <div class="member-name-en">Tian Zou</div>
     <div class="member-title-cn">研究方向</div>
     <div class="member-title-en"></div>
   </div>
 </div>
-2024
+### 2024
 <div class="member-container">
   <div class="member-card">
-    <img class="member-photo" src="assets/QiuyuWang.png" alt="Qiu-yu Wang">
+    <img class="member-photo" src="assets/images/QiuyuWang.png" alt="Qiu-yu Wang">
     <div class="member-name-cn">王秋雨</div>
     <div class="member-name-en">Qiu-yu Wang</div>
     <div class="member-title-cn">研究方向</div>
@@ -95,17 +83,17 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
 
   <div class="member-card">
-    <img class="member-photo" src="assets/XuanlingZhu.png" alt="Xuan-ling Zhu">
+    <img class="member-photo" src="assets/images/XuanlingZhu.png" alt="Xuan-ling Zhu">
     <div class="member-name-cn">朱宣霖</div>
     <div class="member-name-en">Xuan-ling Zhu</div>
     <div class="member-title-cn">研究方向</div>
     <div class="member-title-en"></div>
   </div>
 </div>
-2025
+### 2025
 <div class="member-container">
   <div class="member-card">
-    <img class="member-photo" src="assets/WenhaoDai.png" alt="Wen-hao Dai">
+    <img class="member-photo" src="assets/images/WenhaoDai.png" alt="Wen-hao Dai">
     <div class="member-name-cn">代文浩</div>
     <div class="member-name-en">Wen-hao Dai</div>
     <div class="member-title-cn">研究方向</div>
@@ -113,7 +101,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
 
   <div class="member-card">
-    <img class="member-photo" src="assets/YunHe.png" alt="Yun He">
+    <img class="member-photo" src="assets/images/YunHe.png" alt="Yun He">
     <div class="member-name-cn">贺云</div>
     <div class="member-name-en">Yun He</div>
     <div class="member-title-cn">研究方向</div>
@@ -121,7 +109,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
   
   <div class="member-card">
-    <img class="member-photo" src="assets/DanLiang.png" alt="Dan Liang">
+    <img class="member-photo" src="assets/images/DanLiang.png" alt="Dan Liang">
     <div class="member-name-cn">梁丹</div>
     <div class="member-name-en">Dan Liang</div>
     <div class="member-title-cn">研究方向</div>
@@ -129,7 +117,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
 
   <div class="member-card">
-    <img class="member-photo" src="assets/FanMeng.png" alt="Fan Meng">
+    <img class="member-photo" src="assets/images/FanMeng.png" alt="Fan Meng">
     <div class="member-name-cn">孟凡</div>
     <div class="member-name-en">Fan Meng</div>
     <div class="member-title-cn">研究方向</div>
@@ -137,10 +125,10 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
   
 </div>
-本科生
+### 本科生
 <div class="member-container">
   <div class="member-card">
-    <img class="member-photo" src="assets/ZihanDong.png" alt="Zihan Dong">
+    <img class="member-photo" src="assets/images/ZihanDong.png" alt="Zihan Dong">
     <div class="member-name-cn">董子涵</div>
     <div class="member-name-en">Zi-han Dong</div>
     <div class="member-title-cn">研究方向</div>
@@ -148,7 +136,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
 
   <div class="member-card">
-    <img class="member-photo" src="assets/YangNi.png" alt="Yang Ni">
+    <img class="member-photo" src="assets/images/YangNi.png" alt="Yang Ni">
     <div class="member-name-cn">倪阳</div>
     <div class="member-name-en">Yang Ni</div>
     <div class="member-title-cn">研究方向</div>
@@ -160,7 +148,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 🎓 Academic / 学术界
 <div class="member-container">
   <div class="member-card">
-    <img class="member-photo" src="assets/BinChen.png" alt="Bin Chen">
+    <img class="member-photo" src="assets/images/BinChen.png" alt="Bin Chen">
     <div class="member-name-cn">陈斌</div>
     <div class="member-name-en">Bin Chen</div>
     <div class="member-title-cn">2021级硕士毕业生</div>
@@ -172,7 +160,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 🏭 Industry / 工业界
 <div class="member-container">
   <div class="member-card">
-    <img class="member-photo" src="assets/XunFu.png" alt="Xun Fu">
+    <img class="member-photo" src="assets/images/XunFu.png" alt="Xun Fu">
     <div class="member-name-cn">付勋</div>
     <div class="member-name-en">Xun Fu</div>
     <div class="member-title-cn">2022级硕士毕业生</div>
@@ -184,7 +172,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 <style>
 .member-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start; 
   flex-wrap: wrap;
   margin-top: 20px;
 }
