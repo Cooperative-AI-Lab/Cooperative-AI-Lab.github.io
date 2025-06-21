@@ -21,19 +21,24 @@ redirect_from:
 
 The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses on scientific research in clustering and interactive clustering. Under the leadership of Associate Professor Xie Wenbo, the lab is dedicated to enhancing the generalizability of interactive clustering methods across various application scenarios by integrating expert knowledge with algorithmic reasoning.
 
-⭐️⭐️⭐️实验室长期招收人工智能、数据挖掘等相关专业背景的本科、硕士研究生，参与真实科研项目并发表高水平论文。联系我们: 左下角点击Email.
+⭐️⭐️⭐️<p style="font-size: 16px; color: #5e5e5e;">
+  本实验室专注于 
+  <span style="color: #AB372F; font-weight: bold;">人工智能、数据挖掘</span> 
+  等相关专业背景的本科、硕士研究生，参与真实科研项目并发表高水平论文。联系我们: 左下角点击Email.
+</p>
 
 
 # 🔥 News / 最新动态
 
 # 🔍 Research / 研究方向
--**数据挖掘（DataMining）**
+我们当前的研究主要集中在以下几个方向：
+- **数据挖掘（DataMining）**
 借助新颖的算法或模型从海量数据中学习特殊或频繁出现的模式。
--**主动学习（Active Learning）**
+- **主动学习（Active Learning）**
 结合模型自主推理和人机交互的方式探索数据中隐含的信息。
--**人机协同（Cooperative Human-Machine）**
+- **人机协同（Cooperative Human-Machine）**
 探索人机交互新范式，探索人机协同效率提高方案和协同智能增强策略。
--**图挖掘（Graph Mining）**
+- **图挖掘（Graph Mining）**
 挖掘图结构中的关系模式与隐藏特性，揭示网络中的关键节点与结构。
 # 📝 Publications / 部分论文
 
@@ -65,7 +70,7 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
   </div>
 
   <div class="member-card">
-    <img class="member-photo" src="assets/images/TianZou.jpg" alt="Tian Zou">
+    <img class="member-photo" src="assets/images/TianZou.png" alt="Tian Zou">
     <div class="member-name-cn">邹甜</div>
     <div class="member-name-en">Tian Zou</div>
     <div class="member-title-cn">研究方向</div>
