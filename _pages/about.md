@@ -20,7 +20,7 @@ redirect_from:
 
 The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses on scientific research in clustering and interactive clustering. Under the leadership of Associate Professor Xie Wenbo, the lab is dedicated to enhancing the generalizability of interactive clustering methods across various application scenarios by integrating expert knowledge with algorithmic reasoning.
 
-<span style="font-size: 16px; color: #5e5e5e;">
+<span style="font-size: 18px; color: #5e5e5e;">
   ⭐️⭐️⭐️本实验室专注于 
   <span style="color: #AB372F; font-weight: bold;">人工智能、数据挖掘</span> 
   等相关专业背景的本科、硕士研究生，参与真实科研项目并发表高水平论文。联系我们: 左下角点击Email.
@@ -225,5 +225,6 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 }
 html {
   scroll-behavior: smooth;
+  scroll-margin-top: 80px;
 }
 </style>
