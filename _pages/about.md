@@ -18,10 +18,14 @@ redirect_from:
 <a id='aboutUs'></a>
 协作智能实验室（Cooperative AI Lab）隶属于西南石油大学，专注于**聚类**与**交互式聚类**的科学研究。在谢文波副教授的带领下，实验室致力于研究结合**专家知识**和**算法推理**的方式提高**交互式聚类方法**对各种应用场景的普适性。
 
-The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses on scientific research in clustering and interactive clustering. Under the leadership of Associate Professor Xie Wenbo, the lab is dedicated to enhancing the generalizability of interactive clustering methods across various application scenarios by integrating expert knowledge with algorithmic reasoning.
+The Cooperative AI Lab, affiliated with The Southwest Petroleum University, focuses on scientific research in **clustering** and **interactive clustering**. Under the leadership of Associate Professor **Wen-bo Xie**, the lab is dedicated to enhancing the generalizability of interactive clustering methods across various application scenarios by integrating **expert knowledge** with **algorithmic reasoning**.
+
+实验室成员在人工智能与能源系统领域的国际顶级会议和期刊上发表了多篇论文。我们探索资源友好的人机协作方式来提高算法的数据分析能力。
+
+Laboratory members have published multiple papers in top international conferences and journals in the field of artificial intelligence and energy systems. We explore resource-efficient human-AI collaboration methods to enhance the data analysis capabilities of algorithms.
 
 <span style="font-size: 18px; color: #5e5e5e;">
-  ⭐️⭐️⭐️本实验室专注于 
+  ⭐️⭐️⭐️本实验室长期招收
   <span style="color: #AB372F; font-weight: bold;">人工智能、数据挖掘</span> 
   等相关专业背景的本科、硕士研究生，参与真实科研项目并发表高水平论文。联系我们: 左下角点击Email.
 </span>
@@ -29,7 +33,9 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 
 <a id='news'></a>
 # 🔥 News / 最新动态
-
+- 2024.10: 🎉🎉🎉我们的论文 《ACDM: An Effective and Scalable Active Clustering with Pairwise Constraint》 被 ACM International Conference on Information and Knowledge Management（CIKM） 录用（🏆CCF-B会议）！
+- 2024.08: 🎉🎉🎉我们的论文 《Cost-effective hierarchical clustering with local density peak detection》 被 Information Sciences 录用（🏆SCI-1区期刊）！
+- 2024.01: 🎉🎉🎉我们的论文 《Boosting cluster tree with reciprocal nearest neighbors scoring》 被 Engineering Applications of Artificial Intelligence 录用（🏆SCI-1区期刊）！
 
 <a id='research'></a>
 # 🔍 Research / 研究方向
@@ -46,7 +52,21 @@ The Cooperative AI Lab, affiliated with Southwest Petroleum University, focuses 
 
 <a id='publications'></a>
 # 📝 Publications / 部分论文
-
+- 2023.04：WB Xie, Z Liu, D Das, B Chen, J Srivastava “Scalable clustering by aggregating representatives in
+hierarchical groups”, in Pattern Recognition. （🏆SCI-1）
+- 2020.07：WB Xie, YL Lee, C Wang, DB Chen, T Zhou, “Hierarchical clustering supported by reciprocal 
+nearest neighbors”, in Information Sciences. （🏆SCI-1）
+- 2024.01：WB Xie, Z Liu, B Chen, J Srivastava, “Boosting cluster tree with reciprocal nearest neighbors scoring”, in Engineering Applications of Artificial Intelligence. （🏆SCI-1）
+- 2024.08：WB Xie, B Chen, X Fu, JH Shi, YL Lee, X Wang, “Cost-effective hierarchical clustering with local
+density peak detection”, in Information Sciences. （🏆SCI-1）
+- 2023.04：WB Xie, B Chen, JH Shi, YL Lee, X Wang, X Fu, “Cost-effective clustering by aggregating local 
+density peaks”, in International Conference on Database Systems for Advanced Applications. （🏆CCF-B）
+- 2014.12：W Xie, Z Liu, “An Efficient Hierarchical Clustering Algorithm via Root Searching”, in IEEE International Conference on Computational Science and Engineering. 
+- 2024.10：X Fu, WB Xie, B Chen, T Deng, T Zou, X Wang, “ACDM: An Effective and Scalable Active Clustering
+with Pairwise Constraint”, in Proceedings of the 33rd ACM International Conference on Information and 
+Knowledge Management. （🏆CCF-B）
+- 2020.11：W Xie, Z Liu, Y Fu， “Crank Call Detection Models Based on Call Data of Telephone Subscribers”， 
+Journal of Physics: Conference Series.
 
 <a id='honors-and-awards'></a>
 # 🎖 Honors and Awards / 比赛获奖
