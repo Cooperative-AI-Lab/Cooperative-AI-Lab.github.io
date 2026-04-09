@@ -33,9 +33,9 @@ Laboratory members have published multiple papers in top international conferenc
 
 <a id='news'></a>
 # 🔥 News / 最新动态
-- 2024.10: 🎉🎉🎉我们的论文 《ACDM: An Effective and Scalable Active Clustering with Pairwise Constraint》 被 ACM International Conference on Information and Knowledge Management（CIKM） 录用（🏆CCF-B会议）！
-- 2024.08: 🎉🎉🎉我们的论文 《Cost-effective hierarchical clustering with local density peak detection》 被 Information Sciences 录用（🏆SCI-1区期刊）！
-- 2024.01: 🎉🎉🎉我们的论文 《Boosting cluster tree with reciprocal nearest neighbors scoring》 被 Engineering Applications of Artificial Intelligence 录用（🏆SCI-1区期刊）！
+- 2026.06：🎉🎉🎉我们的论文 《Data Skeleton Learning: Scalable active clustering with sparse graph structures》被 Pattern Recognition录用（🏆SCI-1区期刊)
+- 2025.10：🎉🎉🎉我们的论文 《A Robust and High-Efficiency Active Clustering Framework with Multi-User Collaboration》被 Proceedings of the 34th ACM International Conference on Information and Knowledge Management（CIKM）录用（🏆CCF-B会议)
+- 2025.10：🎉🎉🎉我们的论文 《A Cost-effective Active Clustering with Minimal Constraint Graph》被被 Proceedings of the 34th ACM International Conference on Information and Knowledge Management（CIKM）录用（🏆CCF-B会议)
 
 <a id='research'></a>
 # 🔍 Research / 研究方向
@@ -52,25 +52,20 @@ Laboratory members have published multiple papers in top international conferenc
 
 <a id='publications'></a>
 # 📝 Publications / 部分论文
-- 2023.04：WB Xie, Z Liu, D Das, B Chen, J Srivastava “Scalable clustering by aggregating representatives in
-hierarchical groups”, in Pattern Recognition. （🏆SCI-1）
-- 2020.07：WB Xie, YL Lee, C Wang, DB Chen, T Zhou, “Hierarchical clustering supported by reciprocal 
-nearest neighbors”, in Information Sciences. （🏆SCI-1）
-- 2024.01：WB Xie, Z Liu, B Chen, J Srivastava, “Boosting cluster tree with reciprocal nearest neighbors scoring”, in Engineering Applications of Artificial Intelligence. （🏆SCI-1）
-- 2024.08：WB Xie, B Chen, X Fu, JH Shi, YL Lee, X Wang, “Cost-effective hierarchical clustering with local
-density peak detection”, in Information Sciences. （🏆SCI-1）
-- 2023.04：WB Xie, B Chen, JH Shi, YL Lee, X Wang, X Fu, “Cost-effective clustering by aggregating local 
-density peaks”, in International Conference on Database Systems for Advanced Applications. （🏆CCF-B）
-- 2014.12：W Xie, Z Liu, “An Efficient Hierarchical Clustering Algorithm via Root Searching”, in IEEE International Conference on Computational Science and Engineering. 
-- 2024.10：X Fu, WB Xie, B Chen, T Deng, T Zou, X Wang, “ACDM: An Effective and Scalable Active Clustering
-with Pairwise Constraint”, in Proceedings of the 33rd ACM International Conference on Information and 
-Knowledge Management. （🏆CCF-B）
-- 2020.11：W Xie, Z Liu, Y Fu， “Crank Call Detection Models Based on Call Data of Telephone Subscribers”， 
-Journal of Physics: Conference Series.
+- 2024.10: Fu X, Xie W B, Chen B, et al. ACDM: An effective and scalable active clustering with pairwise constraint. in Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM).（🏆CCF-B会议）！
+- 2024.08: Xie W B, Chen B, Fu X, et al. Cost-effective hierarchical clustering with local density peak detection. in Information Sciences.（🏆SCI-1区期刊）！
+- 2024.01: Xie W B, Liu Z, Chen B, et al. Boosting cluster tree with reciprocal nearest neighbors scoring. in Engineering Applications of Artificial Intelligence.（🏆SCI-1区期刊）！
+- 2023.04：WB Xie, Z Liu, D Das, B Chen, J Srivastava “Scalable clustering by aggregating representatives in hierarchical groups”, in Pattern Recognition. （🏆SCI-1区期刊）
+- 2020.07：WB Xie, YL Lee, C Wang, DB Chen, T Zhou, “Hierarchical clustering supported by reciprocal nearest neighbors”, in Information Sciences. （🏆SCI-1区期刊）
+- 2024.01：WB Xie, Z Liu, B Chen, J Srivastava, “Boosting cluster tree with reciprocal nearest neighbors scoring”, in Engineering Applications of Artificial Intelligence. （🏆SCI-1区期刊）
+- 2024.08：WB Xie, B Chen, X Fu, JH Shi, YL Lee, X Wang, “Cost-effective hierarchical clustering with local density peak detection”, in Information Sciences. （🏆SCI-1区期刊）
+- 2023.04：WB Xie, B Chen, JH Shi, YL Lee, X Wang, X Fu, “Cost-effective clustering by aggregating local density peaks”, in International Conference on Database Systems for Advanced Applications. （🏆CCF-B会议）
+- 2014.12：W Xie, Z Liu, “An Efficient Hierarchical Clustering Algorithm via Root Searching”, in IEEE International Conference on Computational Science and Engineering.
+- 2024.10：X Fu, WB Xie, B Chen, T Deng, T Zou, X Wang, “ACDM: An Effective and Scalable Active Clustering with Pairwise Constraint”, in Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. （🏆CCF-B会议）
+- 2020.11：W Xie, Z Liu, Y Fu， “Crank Call Detection Models Based on Call Data of Telephone Subscribers”，Journal of Physics: Conference Series.
 
 <a id='honors-and-awards'></a>
 # 🎖 Honors and Awards / 比赛获奖
-
 
 <a id='members'></a>
 # 👥 Team Members / 团队成员
@@ -78,7 +73,7 @@ Journal of Physics: Conference Series.
 <div class="member-container">
   <div class="member-card">
     <img class="member-photo" src="assets/images/WenboXie.png" alt="Wen-bo Xie">
-    <div class="member-name-cn">谢文波</div>
+    <a href="https://scholar.google.com/citations?user=WM4roFwAAAAJ&hl=zh-CN&oi=sra" target="_blank"><div class="member-name-cn">谢文波</div></a>
     <div class="member-name-en">Wen-bo Xie</div>
     <div class="member-title-cn">副教授，硕士生导师</div>
     <div class="member-title-en"><em>Associate Research Fellow,<br>Supervisor of Master's Students</em></div>
@@ -154,7 +149,24 @@ Journal of Physics: Conference Series.
     <div class="member-title-cn">研究方向</div>
     <div class="member-title-en"></div>
   </div>
+</div>
+### 2026
+<div class="member-container">
+  <div class="member-card">
+    <img class="member-photo" src="assets/images/chenchunguang.png" alt="Chunguang Chen">
+    <div class="member-name-cn">陈春光</div>
+    <div class="member-name-en">Chunguang Chen</div>
+    <div class="member-title-cn">暂定</div>
+    <div class="member-title-en"></div>
+  </div>
   
+  <div class="member-card">
+    <img class="member-photo" src="assets/images/wangxin.png" alt="Xin Wang">
+    <div class="member-name-cn">王欣</div>
+    <div class="member-name-en">Xin Wang</div>
+    <div class="member-title-cn">暂定</div>
+    <div class="member-title-en"></div>
+  </div>
 </div>
 ### 本科生
 <div class="member-container">
@@ -198,8 +210,8 @@ Journal of Physics: Conference Series.
     <div class="member-name-en">Xun Fu</div>
     <div class="member-title-cn">2022级硕士毕业生</div>
     <div class="member-title-en"><em>Graduated Master Student</em></div>
-    <div class="member-title-cn">就业</div>
-    <div class="member-title-en"><em>就业</em></div>
+    <div class="member-title-cn">北京理工大学在读博士</div>
+    <div class="member-title-en"><em>Ph.D. student in BIT</em></div>
   </div>
 </div>
 
