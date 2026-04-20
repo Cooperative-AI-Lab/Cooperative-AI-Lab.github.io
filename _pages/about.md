@@ -86,8 +86,8 @@ Laboratory members have published multiple papers in top international conferenc
     <img class="member-photo" src="assets/images/TaoDeng.png" alt="Tao Deng">
     <div class="member-name-cn">邓涛</div>
     <div class="member-name-en">Tao Deng</div>
-    <div class="member-title-cn">研究方向</div>
-    <div class="member-title-en"></div>
+    <div class="member-title-cn">研究方向：半监督聚类,主动学习</div>
+    <div class="member-title-en">Research Interests: Semi-supervised Clustering, Active Learning</div>
   </div>
 
   <div class="member-card">
